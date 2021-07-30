@@ -14,7 +14,7 @@ class ProfileScreen extends StatelessWidget {
         automaticallyImplyLeading: false,
         centerTitle: true,
         title: Text(
-          "NETFLIX",
+          "MODU PLAY",
           style: kTitleTextStyle,
         ),
         actions: [
@@ -27,7 +27,7 @@ class ProfileScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              "Netflix를 시청할 프로필을 선택하세요.",
+              "모두의플레이를 시청할 프로필을 선택하세요.",
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 18.0,
