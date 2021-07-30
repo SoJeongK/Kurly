@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   backgroundColor: Colors.transparent,
                   leading: Center(
                     child: Text(
-                      "N",
+                      "M",
                       style: TextStyle(
                           fontSize: 26.0,
                           color: Colors.red,
