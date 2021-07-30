@@ -15,7 +15,7 @@ class SplashScreen extends StatelessWidget {
       backgroundColor: Colors.black,
       body: Center(
         child: Text(
-          "NETFLIX",
+          "MODU PLAY",
           style: TextStyle(
             color: Colors.red,
             fontSize: 28.0,
